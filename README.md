@@ -1,6 +1,6 @@
-# Untitled Navigation Game (October - December 2022)
+# Navigation Game Framework
 
-A framework for a spacial reasoning / puzzle game writte in C# in Unity Game Engine. The game itself is incomplete, but the scripts underlying the code could easily be used to create levels and characters in Unity, as well as be scaled up to contain more features. 
+A framework for a spacial reasoning / puzzle game written in C# in Unity Game Engine. The game itself is incomplete, but the scripts underlying the code could easily be used to create levels and characters in Unity, as well as be scaled up to contain more features. 
 Programming files can be found in Turn Based 10-29/Assets/Scripts/.
 
 Included within are a flexible AI system for allied NPCs and enemies, highly modular behavioral components for various entities within the game, an implementation of the A* pathfinding algorithm,  and more. 
